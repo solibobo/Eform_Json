@@ -17,5 +17,16 @@
 	{"id":"c","name":"c"},
 	{"id":"d","name":"d"},
 	{"id":"e","name":"e"}
-  ]
+  ],
+  "eform": {
+	"data": {
+		"data": {
+			{"id":"a","name":"a"},
+			{"id":"b","name":"b"},
+			{"id":"c","name":"c"},
+			{"id":"d","name":"d"},
+			{"id":"e","name":"e"}
+		}
+	}
+  }
 }
