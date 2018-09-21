@@ -21,11 +21,11 @@
   "eform": {
 	"data": {
 		"data": [
-			{"id":"a","name":"a"},
-			{"id":"b","name":"b"},
-			{"id":"c","name":"c"},
-			{"id":"d","name":"d"},
-			{"id":"e","name":"e"}
+			{"id":"a","name":"con gà"},
+			{"id":"b","name":"quả chuối"},
+			{"id":"c","name":"cây sung"},
+			{"id":"d","name":"xúc xích"},
+			{"id":"e","name":"trái bưởi"}
 		]
 	}
   }
