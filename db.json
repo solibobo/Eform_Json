@@ -1,0 +1,11 @@
+{
+  "id": NguyenVB,
+  "title": "test_data",
+  "data":[
+	{"id":"a","name":"Đánh nó"}
+	{"id":"b","name":"Đá nó"}
+	{"id":"c","name":"Đạp nó"}
+	{"id":"d","name":"Hấp nó"}
+	{"id":"e","name":"Luộc nó"}
+  ]
+}
