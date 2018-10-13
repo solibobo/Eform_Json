@@ -21,11 +21,29 @@
   "eform": {
 	"data": {
 		"data": [
-			{"id":"a","name":"con gà"},
-			{"id":"b","name":"quả chuối"},
-			{"id":"c","name":"cây sung"},
-			{"id":"d","name":"xúc xích"},
-			{"id":"e","name":"trái bưởi"}
+			{"id":"1","name":"con gà"},
+			{"id":"2","name":"quả chuối"},
+			{"id":"3","name":"cây sung"},
+			{"id":"4","name":"xúc xích"},
+			{"id":"5","name":"xúc xích VN"}
+			{"id":"6","name":"xúc xích Đức"}
+			{"id":"7","name":"trứng cút"}
+			{"id":"8","name":"trái bưởi"}
+			{"id":"9","name":"bóng bay"}
+			{"id":"e","name":"cửa trước"}
+			{"id":"e","name":"cửa sau"}
+			{"id":"e","name":"cổng chính"}
+			{"id":"e","name":"cổng phụ"}
+			{"id":"e","name":"gậy như ý"}
+			{"id":"e","name":"dưa leo"}
+			{"id":"e","name":"con cú"}
+			{"id":"e","name":"chim cu gáy"}
+			{"id":"e","name":"lỗ rún"}
+			{"id":"e","name":"chim cánh cụt"}
+			{"id":"e","name":"rau dền"}
+			{"id":"e","name":"cọng cần"}
+			{"id":"e","name":"bụi cỏ"}
+			{"id":"e","name":"hòn đá"}
 		]
 	}
   }
