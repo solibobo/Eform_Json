@@ -87,9 +87,9 @@
 	"eform_InputTree": {
 		"data": {
 			"data": [
-				{"parentId":"","id":"animal","name":"CON VẬT"},
-				{"parentId":"","id":"fruit","name":"ĐỒ ĂN"},
-				{"parentId":"","id":"things","name":"ĐỒ VẬT"},
+				{"parentId":null,"id":"animal","name":"CON VẬT"},
+				{"parentId":null,"id":"fruit","name":"ĐỒ ĂN"},
+				{"parentId":null,"id":"things","name":"ĐỒ VẬT"},
 				{"parentId":"animal","id":"1","name":"con gà"},
 				{"parentId":"fruit","id":"2","name":"quả chuối"},
 				{"parentId":"fruit","id":"3","name":"cây sung"},
@@ -119,9 +119,9 @@
 	"eform_InputTree_not_id_name": {
 		"data": {
 			"data": [
-				{"cha":"","con":"animal","tên":"CON VẬT"},
-				{"cha":"","con":"fruit","tên":"ĐỒ ĂN"},
-				{"cha":"","con":"things","tên":"ĐỒ VẬT"},
+				{"cha":null,"con":"animal","tên":"CON VẬT"},
+				{"cha":null,"con":"fruit","tên":"ĐỒ ĂN"},
+				{"cha":null,"con":"things","tên":"ĐỒ VẬT"},
 				{"cha":"animal","con":"1","tên":"con gà"},
 				{"cha":"fruit","con":"2","tên":"quả chuối"},
 				{"cha":"fruit","con":"3","tên":"cây sung"},
