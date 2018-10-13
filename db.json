@@ -87,10 +87,10 @@
 	"eform_InputTree": {
 		"data": {
 			"data": [
-				{"parentId":null,"id":"100","name":"CON VẬT"},
+				{"parentId":null,"id":"animal","name":"CON VẬT"},
 				{"parentId":null,"id":"101","name":"ĐỒ ĂN"},
 				{"parentId":null,"id":"102","name":"ĐỒ VẬT"},
-				{"parentId":"100","id":"1","name":"con gà"},
+				{"parentId":"animal","id":"1","name":"con gà"},
 				{"parentId":"101","id":"2","name":"quả chuối"},
 				{"parentId":"101","id":"3","name":"cây sung"},
 				{"parentId":"101","id":"4","name":"xúc xích"},
@@ -105,10 +105,10 @@
 				{"parentId":"102","id":"13","name":"cổng phụ"},
 				{"parentId":"102","id":"14","name":"gậy như ý"},
 				{"parentId":"101","id":"15","name":"dưa leo"},
-				{"parentId":"100","id":"16","name":"con cú"},
-				{"parentId":"100","id":"17","name":"chim cu gáy"},
+				{"parentId":"animal","id":"16","name":"con cú"},
+				{"parentId":"animal","id":"17","name":"chim cu gáy"},
 				{"parentId":"102","id":"18","name":"lỗ rún"},
-				{"parentId":"100","id":"19","name":"chim cánh cụt"},
+				{"parentId":"animal","id":"19","name":"chim cánh cụt"},
 				{"parentId":"101","id":"20","name":"rau dền"},
 				{"parentId":"101","id":"21","name":"cọng cần"},
 				{"parentId":"102","id":"22","name":"bụi cỏ"},
