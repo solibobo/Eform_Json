@@ -1,25 +1,53 @@
 {
-  "abc": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "data":[
-	{"id":"a","name":"a"},
-	{"id":"b","name":"b"},
-	{"id":"c","name":"c"},
-	{"id":"d","name":"d"},
-	{"id":"e","name":"e"}
-  ],
-  "eform": {
-	"data": {
+	"abc": [
+		{ "id": 1, "title": "Post 1" },
+		{ "id": 2, "title": "Post 2" },
+		{ "id": 3, "title": "Post 3" }
+	],
+	"comments": [
+		{ "id": 1, "body": "some comment", "postId": 1 },
+		{ "id": 2, "body": "some comment", "postId": 1 }
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"data":[
+		{"id":"a","name":"a"},
+		{"id":"b","name":"b"},
+		{"id":"c","name":"c"},
+		{"id":"d","name":"d"},
+		{"id":"e","name":"e"}
+	],
+	"eform": {
+		"data": {
+			"data": [
+				{"id":"1","name":"con gà"},
+				{"id":"2","name":"quả chuối"},
+				{"id":"3","name":"cây sung"},
+				{"id":"4","name":"xúc xích"},
+				{"id":"5","name":"xúc xích VN"},
+				{"id":"6","name":"xúc xích Đức"},
+				{"id":"7","name":"trứng cút"},
+				{"id":"8","name":"trái bưởi"},
+				{"id":"9","name":"bóng bay"},
+				{"id":"10","name":"cửa trước"},
+				{"id":"11","name":"cửa sau"},
+				{"id":"12","name":"cổng chính"},
+				{"id":"13","name":"cổng phụ"},
+				{"id":"14","name":"gậy như ý"},
+				{"id":"15","name":"dưa leo"},
+				{"id":"16","name":"con cú"},
+				{"id":"17","name":"chim cu gáy"},
+				{"id":"18","name":"lỗ rún"},
+				{"id":"19","name":"chim cánh cụt"},
+				{"id":"20","name":"rau dền"},
+				{"id":"21","name":"cọng cần"},
+				{"id":"22","name":"bụi cỏ"},
+				{"id":"23","name":"hòn đá"}
+			]
+		}
+	},
+	"eform_dataLev1": {
 		"data": [
 			{"id":"1","name":"con gà"},
 			{"id":"2","name":"quả chuối"},
@@ -45,6 +73,98 @@
 			{"id":"22","name":"bụi cỏ"},
 			{"id":"23","name":"hòn đá"}
 		]
+	},
+	"eform_not_id_name": {
+		"data": {
+			"data": [
+				{"cmnd":"1","tên":"con gà"},
+				{"cmnd":"2","tên":"quả chuối"},
+				{"cmnd":"3","tên":"cây sung"},
+				{"cmnd":"4","tên":"xúc xích"},
+				{"cmnd":"5","tên":"xúc xích VN"},
+				{"cmnd":"6","tên":"xúc xích Đức"},
+				{"cmnd":"7","tên":"trứng cút"},
+				{"cmnd":"8","tên":"trái bưởi"},
+				{"cmnd":"9","tên":"bóng bay"},
+				{"cmnd":"10","tên":"cửa trước"},
+				{"cmnd":"11","tên":"cửa sau"},
+				{"cmnd":"12","tên":"cổng chính"},
+				{"cmnd":"13","tên":"cổng phụ"},
+				{"cmnd":"14","tên":"gậy như ý"},
+				{"cmnd":"15","tên":"dưa leo"},
+				{"cmnd":"16","tên":"con cú"},
+				{"cmnd":"17","tên":"chim cu gáy"},
+				{"cmnd":"18","tên":"lỗ rún"},
+				{"cmnd":"19","tên":"chim cánh cụt"},
+				{"cmnd":"20","tên":"rau dền"},
+				{"cmnd":"21","tên":"cọng cần"},
+				{"cmnd":"22","tên":"bụi cỏ"},
+				{"cmnd":"23","tên":"hòn đá"}
+			]
+		}
+	},
+	"eform_InputTree": {
+		"data": {
+			"data": [
+				{parentId:"","id":"animal","name":"CON VẬT"},
+				{parentId:"","id":"fruit","name":"ĐỒ ĂN"},
+				{parentId:"","id":"things","name":"ĐỒ VẬT"},
+				{parentId:"animal","id":"1","name":"con gà"},
+				{parentId:"fruit","id":"2","name":"quả chuối"},
+				{parentId:"fruit","id":"3","name":"cây sung"},
+				{parentId:"fruit","id":"4","name":"xúc xích"},
+				{parentId:"fruit","id":"5","name":"xúc xích VN"},
+				{parentId:"fruit","id":"6","name":"xúc xích Đức"},
+				{parentId:"fruit","id":"7","name":"trứng cút"},
+				{parentId:"fruit","id":"8","name":"trái bưởi"},
+				{parentId:"things","id":"9","name":"bóng bay"},
+				{parentId:"things","id":"10","name":"cửa trước"},
+				{parentId:"things","id":"11","name":"cửa sau"},
+				{parentId:"things","id":"12","name":"cổng chính"},
+				{parentId:"things","id":"13","name":"cổng phụ"},
+				{parentId:"things","id":"14","name":"gậy như ý"},
+				{parentId:"fruit","id":"15","name":"dưa leo"},
+				{parentId:"animal","id":"16","name":"con cú"},
+				{parentId:"animal","id":"17","name":"chim cu gáy"},
+				{parentId:"things","id":"18","name":"lỗ rún"},
+				{parentId:"animal","id":"19","name":"chim cánh cụt"},
+				{parentId:"fruit","id":"20","name":"rau dền"},
+				{parentId:"fruit","id":"21","name":"cọng cần"},
+				{parentId:"things","id":"22","name":"bụi cỏ"},
+				{parentId:"things","id":"23","name":"hòn đá"}
+			]
+		}
+	},
+	"eform_InputTree_not_id_name": {
+		"data": {
+			"data": [
+				{cha:"","con":"animal","tên":"CON VẬT"},
+				{cha:"","con":"fruit","tên":"ĐỒ ĂN"},
+				{cha:"","con":"things","tên":"ĐỒ VẬT"},
+				{cha:"animal","con":"1","tên":"con gà"},
+				{cha:"fruit","con":"2","tên":"quả chuối"},
+				{cha:"fruit","con":"3","tên":"cây sung"},
+				{cha:"fruit","con":"4","tên":"xúc xích"},
+				{cha:"fruit","con":"5","tên":"xúc xích VN"},
+				{cha:"fruit","con":"6","tên":"xúc xích Đức"},
+				{cha:"fruit","con":"7","tên":"trứng cút"},
+				{cha:"fruit","con":"8","tên":"trái bưởi"},
+				{cha:"things","con":"9","tên":"bóng bay"},
+				{cha:"things","con":"10","tên":"cửa trước"},
+				{cha:"things","con":"11","tên":"cửa sau"},
+				{cha:"things","con":"12","tên":"cổng chính"},
+				{cha:"things","con":"13","tên":"cổng phụ"},
+				{cha:"things","con":"14","tên":"gậy như ý"},
+				{cha:"fruit","con":"15","tên":"dưa leo"},
+				{cha:"animal","con":"16","tên":"con cú"},
+				{cha:"animal","con":"17","tên":"chim cu gáy"},
+				{cha:"things","con":"18","tên":"lỗ rún"},
+				{cha:"animal","con":"19","tên":"chim cánh cụt"},
+				{cha:"fruit","con":"20","tên":"rau dền"},
+				{cha:"fruit","con":"21","tên":"cọng cần"},
+				{cha:"things","con":"22","tên":"bụi cỏ"},
+				{cha:"things","con":"23","tên":"hòn đá"}
+			]
+		}
 	}
-  }
 }
