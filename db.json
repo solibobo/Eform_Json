@@ -87,9 +87,9 @@
 	"eform_InputTree": {
 		"data": {
 			"data": [
-				{"parentId":"","id":"animal","name":"CON VẬT"},
-				{"parentId":"","id":"food","name":"ĐỒ ĂN"},
-				{"parentId":"","id":"things","name":"ĐỒ VẬT"},
+				{"parentId":null,"id":"animal","name":"CON VẬT"},
+				{"parentId":null,"id":"food","name":"ĐỒ ĂN"},
+				{"parentId":null,"id":"things","name":"ĐỒ VẬT"},
 				{"parentId":"animal","id":"1","name":"con gà"},
 				{"parentId":"food","id":"2","name":"quả chuối"},
 				{"parentId":"food","id":"3","name":"cây sung"},
