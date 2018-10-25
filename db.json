@@ -1,31 +1,9 @@
 {
 	"eform": {
 		"data": {
-			"data": [
-				{"id":"1","name":"con gà"},
-				{"id":"2","name":"quả chuối"},
-				{"id":"3","name":"cây sung"},
-				{"id":"4","name":"xúc xích"},
-				{"id":"5","name":"xúc xích VN"},
-				{"id":"6","name":"xúc xích Đức"},
-				{"id":"7","name":"trứng cút"},
-				{"id":"8","name":"trái bưởi"},
-				{"id":"9","name":"bóng bay"},
-				{"id":"10","name":"cửa trước"},
-				{"id":"11","name":"cửa sau"},
-				{"id":"12","name":"cổng chính"},
-				{"id":"13","name":"cổng phụ"},
-				{"id":"14","name":"gậy như ý"},
-				{"id":"15","name":"dưa leo"},
-				{"id":"16","name":"con cú"},
-				{"id":"17","name":"chim cu gáy"},
-				{"id":"18","name":"lỗ rún"},
-				{"id":"19","name":"chim cánh cụt"},
-				{"id":"20","name":"rau dền"},
-				{"id":"21","name":"cọng cần"},
-				{"id":"22","name":"bụi cỏ"},
-				{"id":"23","name":"hòn đá"}
-			]
+			"data": 
+				{"id":"1","name":"con gà"}
+			
 		}
 	},
 	"eform_dataLev1": {
