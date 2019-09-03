@@ -1,7 +1,7 @@
 {
 	"eform": {
-		"data": {
-			"data": [
+		"data_lvl_1": {
+			"data_lvl_2": [
 				{"id":"1","name":"con gà"},
 				{"id":"2","name":"trái cam"},
 				{"id":"3","name":"cây bàng"},
@@ -28,8 +28,8 @@
 			]
 		}
 	},
-	"eform_dataLev1": {
-		"data": [
+	"abc": {
+		"abc_1": [
 			{"id":"1","name":"con gà"},
 			{"id":"2","name":"trái cam"},
 			{"id":"3","name":"cây bàng"},
@@ -55,9 +55,9 @@
 			{"id":"23","name":"hòn đá"}
 		]
 	},
-	"eform_not_id_name": {
-		"data": {
-			"data": [
+	"xyz": {
+		"xyz_1": {
+			"xyz_2": [
 				{"cmnd":"1","tên":"con gà"},
 				{"cmnd":"2","tên":"trái cam"},
 				{"cmnd":"3","tên":"cây bàng"},
@@ -84,9 +84,9 @@
 			]
 		}
 	},
-	"eform_InputTree": {
-		"data": {
-			"data": [
+	"test_data": {
+		"aaa": {
+			"bbb": [
 				{"parentId":null,"id":"item001","name":"ITEM 001"},
 				{"parentId":null,"id":"item002","name":"ITEM 002"},
 				{"parentId":null,"id":"item003","name":"ITEM 003"},
@@ -116,9 +116,9 @@
 			]
 		}
 	},
-	"eform_InputTree_not_id_name": {
-		"data": {
-			"data": [
+	"ccc": {
+		"ddd": {
+			"eee": [
 				{"cha":null,"con":"item001","tên":"ITEM 001"},
 				{"cha":null,"con":"item002","tên":"ITEM 002"},
 				{"cha":null,"con":"item003","tên":"ITEM 003"},
